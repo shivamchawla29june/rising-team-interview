@@ -1,3 +1,5 @@
+# Go To Readme_Notes.md first for Project Details and then Read this for starting react code
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
