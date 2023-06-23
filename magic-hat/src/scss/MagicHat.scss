@@ -1,0 +1,27 @@
+.set-time-section {
+  display: flex;
+  min-width: 100%;
+  text-align: center;
+  justify-content: center;
+  padding: 20px;
+  margin: 15px 0px;
+  background-color: #444444;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px rgba(243, 201, 201, 0.1);
+
+  input {
+    padding: 20px;
+    margin: 20px;
+    font-size: 15px;
+    font-weight: bold;
+  }
+
+  label {
+    padding: 20px;
+    margin: 20px;
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+  }
+}
+
